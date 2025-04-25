@@ -1,7 +1,7 @@
 fx_version 'cerulean'
 games { 'gta5' }
 
-author 'DrMxrcy'
+author 'DrMxrcy och Scout_ante'
 description 'Vehicle Plate Lookup System'
 version '1.0.0'
 
